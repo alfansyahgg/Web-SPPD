@@ -1,0 +1,48 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p,
+div {
+	padding: 0;
+	margin: 0;
+}
+
+table#main {
+	border-collapse: collapse;
+	border: 1px solid black;
+	font-size: 13px;
+	vertical-align: top;
+}
+
+table#main,
+table#main th,
+table#main tr,
+table#main td {
+	border: 1px solid black;
+}
+
+table#main td {
+	padding: 2px;
+}
+
+table.inside {
+}
+
+table.inside td,
+table.perhatian td {
+	border: 0;
+}
+
+/* ul {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+ul li span {
+	float: left;
+	width: 40px;
+} */

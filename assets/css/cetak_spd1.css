@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p {
+	padding: 0;
+	margin: 0;
+}
+
+table#spd {
+	border-collapse: collapse;
+	border: 1px solid black;
+	font-size: 14px;
+}
+
+table#spd,
+table#spd th,
+table#spd tr,
+table#spd td {
+	border: 1px solid black;
+}
+
+table#spd td {
+	padding: 7px;
+}
