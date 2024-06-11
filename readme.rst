@@ -7,5 +7,3 @@ Cetak Surat Perintah, Surat Pernyataan, Surat Tugas, Laporan Perjalanan Dinas, d
 - Codeigniter 3 
 - Mpdf
 - PHP 7+
-
-Hit my personal contact for database.
